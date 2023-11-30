@@ -14,7 +14,7 @@ vim.opt.wrap = false
 
 vim.opt.swapfile = false
 vim.opt.backup = false
-vim.opt.undodir = "C:/Users/PJ/.vim/undodir"
+-- vim.opt.undodir = "C:/Users/PJ/.vim/undodir"
 vim.opt.undofile = true
 
 vim.opt.hlsearch = false
